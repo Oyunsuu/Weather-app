@@ -3,3 +3,8 @@ h1 {
     color: red;
 }
 
+.contact-btn {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
